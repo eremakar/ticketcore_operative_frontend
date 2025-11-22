@@ -65,6 +65,24 @@ const HorizontalMenu = () => {
                 </ul>
             </li>
             <li className="menu nav-item relative">
+                <button type="button" className={navLinkClass}>
+                    <div className="flex items-center">
+                        <span className="px-1">Администрирование</span>
+                    </div>
+                    <div className="right_arrow">
+                        <IconCaretDown />
+                    </div>
+                </button>
+                <ul
+                    className="sub-menu rounded-2xl text-white/95 p-2 [&_li]:min-w-[220px] [&_a]:block [&_a]:px-3 [&_a]:py-2 [&_a]:rounded-lg [&_a]:text-white/90 [&_a:hover]:bg-white/20 [&_a:hover]:text-white [&_a.active]:bg-white/25"
+                    style={submenuSurfaceStyle}
+                >
+                    <li>
+                        <Link href="/users">Пользователи</Link>
+                    </li>
+                </ul>
+            </li>
+            <li className="menu nav-item relative">
                 <button type="button" className={navLinkClass} onClick={() => {
                     logout();
                     router.replace('/auth/cover-login');
