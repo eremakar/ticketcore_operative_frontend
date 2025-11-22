@@ -1,0 +1,32 @@
+#deckgl-overlay {
+  position: static !important;
+}
+
+.scheme-list-head {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.scheme-list-head-inner {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  left: 0;
+}
+
+.scheme-list-head * {
+  margin: 0;
+}
+
+.scheme-list button:not(.Mui-disabled) svg path {
+  fill: #6e7273;
+}
+
+.scheme-list-head h2 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 auto;
+  color: #6e7273;
+}

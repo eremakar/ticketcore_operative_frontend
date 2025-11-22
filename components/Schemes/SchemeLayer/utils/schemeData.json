@@ -1,0 +1,3254 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КОКШЕТАУ I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7357758620689197,
+          1.0060344827590484
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ],
+        "textAnchor": "end"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КОКШЕТАУ II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1357758620689111,
+          1.206034482759037
+        ]
+      },
+      "text": {
+        "textAngle": 90,
+        "textOffset": [
+          0,
+          -13
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ОКТЯБРЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5357758620689168,
+          1.4060344827590257
+        ]
+      },
+      "text": {
+        "textAngle": 90,
+        "textOffset": [
+          0,
+          -13
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЧКАЛОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9357758620689083,
+          1.6060344827590427
+        ]
+      },
+      "text": {
+        "textAngle": 90,
+        "textOffset": [
+          0,
+          -13
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЗОЛОТОРУННАЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.335775862068914,
+          1.8060344827590313
+        ]
+      },
+      "text": {
+        "textAngle": 90,
+        "textOffset": [
+          0,
+          -13
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "АШИКОЛЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7357758620689197,
+          2.0060344827590484
+        ]
+      },
+      "text": {
+        "textAngle": 90,
+        "textOffset": [
+          0,
+          -13
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ДАУТ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.135775862068911,
+          2.206034482759037
+        ]
+      },
+      "text": {
+        "textAngle": 90,
+        "textOffset": [
+          0,
+          -13
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ТАЛЬЩИК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.535775862068917,
+          2.4060344827590257
+        ]
+      },
+      "text": {
+        "textAngle": 90,
+        "textOffset": [
+          0,
+          -13
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КЫЗЫЛ-ТУ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9357758620689083,
+          2.6060344827590427
+        ]
+      },
+      "text": {
+        "textAngle": 90,
+        "textOffset": [
+          0,
+          -13
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КОКШЕТАУ I - КОКШЕТАУ II",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              0.7357758620689197,
+              1.0060344827590484
+            ],
+            [
+              1.1357758620689111,
+              1.206034482759037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10049,
+        "name": "КОКШЕТАУ II - ОКТЯБРЬ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1.1357758620689111,
+              1.206034482759037
+            ],
+            [
+              1.5357758620689168,
+              1.4060344827590257
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": [
+          10051,
+          10052
+        ],
+        "name": "ОКТЯБРЬ - ЧКАЛОВО",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1.5357758620689168,
+              1.4060344827590257
+            ],
+            [
+              1.9357758620689083,
+              1.6060344827590427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10053,
+        "name": "ЧКАЛОВО - ЗОЛОТОРУННАЯ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1.9357758620689083,
+              1.6060344827590427
+            ],
+            [
+              2.335775862068914,
+              1.8060344827590313
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": [
+          10055,
+          10056
+        ],
+        "name": "ЗОЛОТОРУННАЯ - АШИКОЛЬ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              2.335775862068914,
+              1.8060344827590313
+            ],
+            [
+              2.7357758620689197,
+              2.0060344827590484
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": [
+          10057,
+          10058
+        ],
+        "name": "АШИКОЛЬ - ДАУТ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              2.7357758620689197,
+              2.0060344827590484
+            ],
+            [
+              3.135775862068911,
+              2.206034482759037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": [
+          10059,
+          10060
+        ],
+        "name": "ДАУТ - ТАЛЬЩИК",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              3.135775862068911,
+              2.206034482759037
+            ],
+            [
+              3.535775862068917,
+              2.4060344827590257
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10061,
+        "name": "ТАЛЬЩИК - КЫЗЫЛ-ТУ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              3.535775862068917,
+              2.4060344827590257
+            ],
+            [
+              3.9357758620689083,
+              2.6060344827590427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              3.9357758620689083,
+              2.6060344827590427
+            ],
+            [
+              4.335775862068914,
+              2.8060344827590313
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЖАМАНТУЗ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9357758620689083,
+          0.6060344827590427
+        ]
+      },
+      "text": {
+        "textOffset": [
+          13,
+          0
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "К-БОРОВОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1357758620689111,
+          0.20603448275903702
+        ]
+      },
+      "text": {
+        "textOffset": [
+          13,
+          0
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЖАСЫЛ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.335775862068914,
+          -0.19396551724096867
+        ]
+      },
+      "text": {
+        "textOffset": [
+          13,
+          0
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "МАКИНКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5357758620689168,
+          -0.5939655172409743
+        ]
+      },
+      "text": {
+        "textOffset": [
+          13,
+          0
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЕЛЬТАЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7357758620689197,
+          -0.9939655172409516
+        ]
+      },
+      "text": {
+        "textOffset": [
+          -13,
+          0
+        ],
+        "textAnchor": "end"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "АККУЛЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9357758620689083,
+          -1.3939655172409573
+        ]
+      },
+      "text": {
+        "textOffset": [
+          -13,
+          0
+        ],
+        "textAnchor": "end"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЩОРТАНДЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.135775862068911,
+          -1.793965517240963
+        ]
+      },
+      "text": {
+        "textOffset": [
+          -13,
+          0
+        ],
+        "textAnchor": "end"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ТАНКЕРИС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.335775862068914,
+          -2.1939655172409687
+        ]
+      },
+      "text": {
+        "textOffset": [
+          -13,
+          0
+        ],
+        "textAnchor": "end"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "О.П. 39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.535775862068917,
+          -2.5939655172409743
+        ]
+      },
+      "text": {
+        "textOffset": [
+          -13,
+          0
+        ],
+        "textAnchor": "end"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "АСТАНА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7357758620689197,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          10,
+          -10
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КОКШЕТАУ I - ЖАМАНТУЗ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              0.7357758620689197,
+              1.0060344827590484
+            ],
+            [
+              0.9357758620689083,
+              0.6060344827590427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЖАМАНТУЗ - К-БОРОВОЕ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              0.9357758620689083,
+              0.6060344827590427
+            ],
+            [
+              1.1357758620689111,
+              0.20603448275903702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1.1357758620689111,
+              0.20603448275903702
+            ],
+            [
+              1.2357758620689197,
+              0.006034482759048387
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1.2357758620689197,
+              0.006034482759048387
+            ],
+            [
+              1.335775862068914,
+              -0.19396551724096867
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8685,
+        "name": "К-БОРОВОЕ - ЖАСЫЛ",
+        "color": "#ffffff00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1.1357758620689111,
+              0.20603448275903702
+            ],
+            [
+              1.335775862068914,
+              -0.19396551724096867
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": [
+          8687,
+          8688
+        ],
+        "name": "ЖАСЫЛ - МАКИНКА",
+        "color": "#00aeef",
+        "startM": 282300,
+        "endM": 301300
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1.335775862068914,
+              -0.19396551724096867
+            ],
+            [
+              1.5357758620689168,
+              -0.5939655172409743
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": [
+          8689,
+          8690
+        ],
+        "name": "МАКИНКА - ЕЛЬТАЙ",
+        "color": "#00aeef",
+        "startM": 301300,
+        "endM": 343500
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1.5357758620689168,
+              -0.5939655172409743
+            ],
+            [
+              1.7357758620689197,
+              -0.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЕЛЬТАЙ - АККУЛЬ",
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1.7357758620689197,
+              -0.9939655172409516
+            ],
+            [
+              1.9357758620689083,
+              -1.3939655172409573
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "АККУЛЬ - ЩОРТАНДЫ",
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1.9357758620689083,
+              -1.3939655172409573
+            ],
+            [
+              2.135775862068911,
+              -1.793965517240963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЩОРТАНДЫ - ТАНКЕРИС",
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              2.135775862068911,
+              -1.793965517240963
+            ],
+            [
+              2.335775862068914,
+              -2.1939655172409687
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ТАНКЕРИС - 0.П. 39",
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              2.335775862068914,
+              -2.1939655172409687
+            ],
+            [
+              2.535775862068917,
+              -2.5939655172409743
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "0.П. 39 - АСТАНА",
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              2.535775862068917,
+              -2.5939655172409743
+            ],
+            [
+              2.7357758620689197,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ВАСИЛЬКОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.13577586206891112,
+          1.206034482759037
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textAnchor": "end",
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КАРАГАЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4642241379310832,
+          1.4060344827590257
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textAnchor": "end",
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "УГОЛКИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0642241379310917,
+          1.6060344827590427
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textAnchor": "end",
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ВОЛОДАРСКОЕ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.664224137931086,
+          1.8060344827590313
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textAnchor": "end",
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЯНКО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2642241379310803,
+          2.0060344827590484
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textAnchor": "end",
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1-Я ЦЕЛИННАЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.864224137931089,
+          2.206034482759037
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textAnchor": "end",
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Б.П."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.464224137931083,
+          2.4060344827590257
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textAnchor": "end",
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЖАНА-ЕСИЛЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.064224137931092,
+          2.6060344827590427
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textAnchor": "end",
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КОКШЕТАУ I - ВАСИЛЬКОВКА",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              0.7357758620689197,
+              1.0060344827590484
+            ],
+            [
+              0.13577586206891112,
+              1.206034482759037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ВАСИЛЬКОВКА - КАРАГАЙ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              0.13577586206891112,
+              1.206034482759037
+            ],
+            [
+              -0.4642241379310832,
+              1.4060344827590257
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10044,
+        "name": "КАРАГАЙ - УГОЛКИ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.4642241379310832,
+              1.4060344827590257
+            ],
+            [
+              -1.0642241379310917,
+              1.6060344827590427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "УГОЛКИ - ВОЛОДАРСКОЕ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -1.0642241379310917,
+              1.6060344827590427
+            ],
+            [
+              -1.664224137931086,
+              1.8060344827590313
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ВОЛОДАРСКОЕ - ЯНКО",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -1.664224137931086,
+              1.8060344827590313
+            ],
+            [
+              -2.2642241379310803,
+              2.0060344827590484
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8734,
+        "name": "ЯНКО - 1-Я ЦЕЛИННАЯ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -2.2642241379310803,
+              2.0060344827590484
+            ],
+            [
+              -2.864224137931089,
+              2.206034482759037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1-Я ЦЕЛИННАЯ - Б.П.",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -2.864224137931089,
+              2.206034482759037
+            ],
+            [
+              -3.464224137931083,
+              2.4060344827590257
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Б.П. - ЖАНА-ЕСИЛЬ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -3.464224137931083,
+              2.4060344827590257
+            ],
+            [
+              -4.064224137931092,
+              2.6060344827590427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЧАГЛИНКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5357758620689168,
+          1.4060344827590257
+        ]
+      },
+      "text": {
+        "textAngle": -20,
+        "textOffset": [
+          -15,
+          -5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЖАМАН-АЩИ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.33577586206891397,
+          1.8060344827590313
+        ]
+      },
+      "text": {
+        "textAngle": -20,
+        "textOffset": [
+          -15,
+          -5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "АЗАТ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.13577586206891112,
+          2.206034482759037
+        ]
+      },
+      "text": {
+        "textAngle": -20,
+        "textOffset": [
+          -15,
+          -5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ПРИРЕЧНАЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06422413793109172,
+          2.6060344827590427
+        ]
+      },
+      "text": {
+        "textAngle": -20,
+        "textOffset": [
+          -15,
+          -5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ТАЙЫНША"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.26422413793108035,
+          3.0060344827590484
+        ]
+      },
+      "text": {
+        "textAngle": -20,
+        "textOffset": [
+          -15,
+          -5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ТЕНИЗ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4642241379310832,
+          3.4060344827590257
+        ]
+      },
+      "text": {
+        "textAngle": -20,
+        "textOffset": [
+          -15,
+          -5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КИЯЛЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.664224137931086,
+          3.8060344827590313
+        ]
+      },
+      "text": {
+        "textAngle": -20,
+        "textOffset": [
+          -15,
+          -5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЖАНА-ЖОЛ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8642241379310889,
+          4.206034482759037
+        ]
+      },
+      "text": {
+        "textAngle": -20,
+        "textOffset": [
+          -15,
+          -5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "СМИРНОВО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0642241379310917,
+          4.606034482759043
+        ]
+      },
+      "text": {
+        "textAngle": -20,
+        "textOffset": [
+          -15,
+          -5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КАУДАНДЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2642241379310803,
+          5.006034482759048
+        ]
+      },
+      "text": {
+        "textAngle": -20,
+        "textOffset": [
+          -15,
+          -5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЖАНА-ТУРМЫС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4642241379310832,
+          5.406034482759026
+        ]
+      },
+      "text": {
+        "textAngle": -20,
+        "textOffset": [
+          -15,
+          -5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": [
+          10082,
+          10083
+        ],
+        "name": "КОКШЕТАУ I - ЧАГЛИНКА",
+        "color": "#ffea00",
+        "startM": 193700,
+        "endM": 182400
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              0.7357758620689197,
+              1.0060344827590484
+            ],
+            [
+              0.5357758620689168,
+              1.4060344827590257
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10081,
+        "name": "ЧАГЛИНКА - ЖАМАН-АЩИ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              0.5357758620689168,
+              1.4060344827590257
+            ],
+            [
+              0.33577586206891397,
+              1.8060344827590313
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЖАМАН-АЩИ - АЗАТ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              0.33577586206891397,
+              1.8060344827590313
+            ],
+            [
+              0.13577586206891112,
+              2.206034482759037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10077,
+        "name": "АЗАТ - ПРИРЕЧНАЯ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              0.13577586206891112,
+              2.206034482759037
+            ],
+            [
+              -0.06422413793109172,
+              2.6060344827590427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10075,
+        "name": "ПРИРЕЧНАЯ - ТАЙЫНША",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.06422413793109172,
+              2.6060344827590427
+            ],
+            [
+              -0.26422413793108035,
+              3.0060344827590484
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10073,
+        "name": "ТАЙЫНША - ТЕНИЗ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.26422413793108035,
+              3.0060344827590484
+            ],
+            [
+              -0.4642241379310832,
+              3.4060344827590257
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ТЕНИЗ - КИЯЛЫ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.4642241379310832,
+              3.4060344827590257
+            ],
+            [
+              -0.664224137931086,
+              3.8060344827590313
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КИЯЛЫ - ЖАНА-ЖОЛ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.664224137931086,
+              3.8060344827590313
+            ],
+            [
+              -0.8642241379310889,
+              4.206034482759037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЖАНА-ЖОЛ - СМИРНОВО",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.8642241379310889,
+              4.206034482759037
+            ],
+            [
+              -1.0642241379310917,
+              4.606034482759043
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10065,
+        "name": "СМИРНОВО - КАУДАНДЫ",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -1.0642241379310917,
+              4.606034482759043
+            ],
+            [
+              -1.2642241379310803,
+              5.006034482759048
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КАУДАНДЫ - ЖАНА-ТУРМЫС",
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -1.2642241379310803,
+              5.006034482759048
+            ],
+            [
+              -1.4642241379310832,
+              5.406034482759026
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#ffea00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -1.4642241379310832,
+              5.406034482759026
+            ],
+            [
+              -1.7642241379310803,
+              6.006034482759048
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "СОРОКОВАЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.335775862068914,
+          -3.293965517240963
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          10,
+          -10
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "О.П. 42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.535775862068917,
+          -3.6939655172409687
+        ]
+      },
+      "text": {
+        "textOffset": [
+          15,
+          0
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "БАБАТАЙ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7357758620689197,
+          -4.093965517240974
+        ]
+      },
+      "text": {
+        "textOffset": [
+          15,
+          0
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ШЕПТЫКОЛЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9357758620689083,
+          -4.493965517240952
+        ]
+      },
+      "text": {
+        "textOffset": [
+          15,
+          0
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ВИШНЕВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.135775862068911,
+          -4.893965517240957
+        ]
+      },
+      "text": {
+        "textOffset": [
+          15,
+          0
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "АНАР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.335775862068914,
+          -5.293965517240963
+        ]
+      },
+      "text": {
+        "textOffset": [
+          15,
+          0
+        ],
+        "textAnchor": "start"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "НҰРЛЫ-ЖОЛ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.835775862068914,
+          -3.793965517240963
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "АСТАНА - СОРОКОВАЯ",
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              2.7357758620689197,
+              -2.9939655172409516
+            ],
+            [
+              3.335775862068914,
+              -3.293965517240963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              3.335775862068914,
+              -3.293965517240963
+            ],
+            [
+              4.73577586206892,
+              -3.293965517240963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8703,
+        "name": "СОРОКОВАЯ - О.П. 42",
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              3.335775862068914,
+              -3.293965517240963
+            ],
+            [
+              3.535775862068917,
+              -3.6939655172409687
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8705,
+        "name": "О.П. 42 - БАБАТАЙ",
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              3.535775862068917,
+              -3.6939655172409687
+            ],
+            [
+              3.7357758620689197,
+              -4.093965517240974
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "БАБАТАЙ - ШЕПТЫКОЛЬ",
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              3.7357758620689197,
+              -4.093965517240974
+            ],
+            [
+              3.9357758620689083,
+              -4.493965517240952
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ШЕПТЫКОЛЬ - ВИШНЕВКА",
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              3.9357758620689083,
+              -4.493965517240952
+            ],
+            [
+              4.135775862068911,
+              -4.893965517240957
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ВИШНЕВКА - АНАР",
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              4.135775862068911,
+              -4.893965517240957
+            ],
+            [
+              4.335775862068914,
+              -5.293965517240963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              4.335775862068914,
+              -5.293965517240963
+            ],
+            [
+              9.535775862068917,
+              -15.693965517240969
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "СОРОКОВАЯ - НҰРЛЫ-ЖОЛ",
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              3.335775862068914,
+              -3.293965517240963
+            ],
+            [
+              2.835775862068914,
+              -3.793965517240963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8716,
+        "name": "НҰРЛЫ-ЖОЛ - АСТАНА",
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              2.835775862068914,
+              -3.793965517240963
+            ],
+            [
+              2.7357758620689197,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              2.835775862068914,
+              -3.793965517240963
+            ],
+            [
+              2.885775862068911,
+              -4.193965517240969
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "О.П. 96"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.335775862068914,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЖАЙНАК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9357758620689083,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КОСШЕКУ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5357758620689168,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TACTAK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1357758620689111,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КАРА-АДЫР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7357758620689197,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "АСТРАХАНКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.33577586206891397,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КОЛУТОН"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06422413793109172,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ИРЧЕНКО"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4642241379310832,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "АДЫР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8642241379310889,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "АТБАСАР"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2642241379310803,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "О.П.86"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.664224137931086,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ПЕРЕКАТНАЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0642241379310917,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КАЗАХСКАЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.464224137931083,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЖАКСЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.864224137931089,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "О.П. 80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2642241379310803,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КРАСИВАЯ КАЗ."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.664224137931086,
+          -2.9939655172409516
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЕСИЛЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.964224137931083,
+          -2.5939655172409743
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "АСТАНА - О.П. 96",
+        "color": "#00aeef"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              2.7357758620689197,
+              -2.9939655172409516
+            ],
+            [
+              2.335775862068914,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "О.П. 96 - ЖАЙНАК",
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              2.7357758620689197,
+              -2.9939655172409516
+            ],
+            [
+              2.335775862068914,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8930,
+        "name": "ЖАЙНАК - КОСШЕКУ",
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              2.335775862068914,
+              -2.9939655172409516
+            ],
+            [
+              1.9357758620689083,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КОСШЕКУ - TACTAK",
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1.9357758620689083,
+              -2.9939655172409516
+            ],
+            [
+              1.5357758620689168,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TACTAK - КАРА-АДЫР",
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1.5357758620689168,
+              -2.9939655172409516
+            ],
+            [
+              1.1357758620689111,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КАРА-АДЫР - АСТРАХАНКА",
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              1.1357758620689111,
+              -2.9939655172409516
+            ],
+            [
+              0.7357758620689197,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "АСТРАХАНКА - ЖАЛТЫР",
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              0.7357758620689197,
+              -2.9939655172409516
+            ],
+            [
+              0.33577586206891397,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8922,
+        "name": "ЖАЛТЫР - КОЛУТОН",
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              0.33577586206891397,
+              -2.9939655172409516
+            ],
+            [
+              -0.06422413793109172,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8920,
+        "name": "КОЛУТОН - ИРЧЕНКО",
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.06422413793109172,
+              -2.9939655172409516
+            ],
+            [
+              -0.4642241379310832,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8918,
+        "name": "ИРЧЕНКО - АДЫР",
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.4642241379310832,
+              -2.9939655172409516
+            ],
+            [
+              -0.8642241379310889,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8916,
+        "name": "АДЫР - АТБАСАР",
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -0.8642241379310889,
+              -2.9939655172409516
+            ],
+            [
+              -1.2642241379310803,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8914,
+        "name": "АТБАСАР - О.П.86",
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -1.2642241379310803,
+              -2.9939655172409516
+            ],
+            [
+              -1.664224137931086,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "О.П.86 - ПЕРЕКАТНАЯ",
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -1.664224137931086,
+              -2.9939655172409516
+            ],
+            [
+              -2.0642241379310917,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8910,
+        "name": "ПЕРЕКАТНАЯ - КАЗАХСКАЯ",
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -2.0642241379310917,
+              -2.9939655172409516
+            ],
+            [
+              -2.464224137931083,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8908,
+        "name": "КАЗАХСКАЯ - ЖАКСЫ",
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -2.464224137931083,
+              -2.9939655172409516
+            ],
+            [
+              -2.864224137931089,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8906,
+        "name": "ЖАКСЫ - О.П. 80",
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -2.864224137931089,
+              -2.9939655172409516
+            ],
+            [
+              -3.2642241379310803,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "О.П. 80 - КРАСИВАЯ КАЗ.",
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -3.2642241379310803,
+              -2.9939655172409516
+            ],
+            [
+              -3.664224137931086,
+              -2.9939655172409516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#4caf50"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -3.664224137931086,
+              -2.9939655172409516
+            ],
+            [
+              -3.8142241379310917,
+              -2.793965517240963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8902,
+        "name": "КРАСИВАЯ КАЗ. - ЕСИЛЬ",
+        "color": "#ffffff00"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -3.664224137931086,
+              -2.9939655172409516
+            ],
+            [
+              -3.964224137931083,
+              -2.5939655172409743
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "САДЫРКОЛЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.864224137931089,
+          2.5660344827590222
+        ]
+      },
+      "text": {
+        "textAngle": 45,
+        "textOffset": [
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "БЕЛОГРАДОВКА"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.26422413793108,
+          3.0060344827590484
+        ]
+      },
+      "text": {
+        "textOffset": [
+          -15,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "АКСУАТ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.464224137931083,
+          3.4060344827590257
+        ]
+      },
+      "text": {
+        "textOffset": [
+          -15,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "СУЛЫ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.664224137931086,
+          3.8060344827590313
+        ]
+      },
+      "text": {
+        "textOffset": [
+          -15,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "КАЙРАНКУЛЬ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.864224137931089,
+          4.206034482759037
+        ]
+      },
+      "text": {
+        "textOffset": [
+          -15,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "БАУМАНСКАЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.064224137931092,
+          4.606034482759043
+        ]
+      },
+      "text": {
+        "textOffset": [
+          -15,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ПРЕСНОГОРЬКОВСКАЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.26422413793108,
+          5.006034482759048
+        ]
+      },
+      "text": {
+        "textOffset": [
+          -15,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЗЕРНОВАЯ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.464224137931083,
+          5.406034482759026
+        ]
+      },
+      "text": {
+        "textOffset": [
+          -15,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЖАНА-ЕСИЛЬ - САДЫРКОЛЬ",
+        "color": "#8e24aa"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.064224137931092,
+              2.6060344827590427
+            ],
+            [
+              -4.864224137931089,
+              2.5660344827590222
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#8e24aa"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.864224137931089,
+              2.5660344827590222
+            ],
+            [
+              -5.664224137931086,
+              2.52603448275903
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8730,
+        "name": "ЖАНА-ЕСИЛЬ - БЕЛОГРАДОВКА",
+        "color": "#8e24aa"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.064224137931092,
+              2.6060344827590427
+            ],
+            [
+              -4.26422413793108,
+              3.0060344827590484
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8728,
+        "name": "БЕЛОГРАДОВКА - АКСУАТ",
+        "color": "#8e24aa"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.26422413793108,
+              3.0060344827590484
+            ],
+            [
+              -4.464224137931083,
+              3.4060344827590257
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8726,
+        "name": "АКСУАТ - СУЛЫ",
+        "color": "#8e24aa"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.464224137931083,
+              3.4060344827590257
+            ],
+            [
+              -4.664224137931086,
+              3.8060344827590313
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8724,
+        "name": "СУЛЫ - КАЙРАНКУЛЬ",
+        "color": "#8e24aa"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.664224137931086,
+              3.8060344827590313
+            ],
+            [
+              -4.864224137931089,
+              4.206034482759037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8722,
+        "name": "КАЙРАНКУЛЬ - БАУМАНСКАЯ",
+        "color": "#8e24aa"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.864224137931089,
+              4.206034482759037
+            ],
+            [
+              -5.064224137931092,
+              4.606034482759043
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8720,
+        "name": "БАУМАНСКАЯ - ПРЕСНОГОРЬКОВСКАЯ",
+        "color": "#8e24aa"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.064224137931092,
+              4.606034482759043
+            ],
+            [
+              -5.26422413793108,
+              5.006034482759048
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8718,
+        "name": "ПРЕСНОГОРЬКОВСКАЯ - ЗЕРНОВАЯ",
+        "color": "#8e24aa"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.26422413793108,
+              5.006034482759048
+            ],
+            [
+              -5.464224137931083,
+              5.406034482759026
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#8e24aa"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.464224137931083,
+              5.406034482759026
+            ],
+            [
+              -5.664224137931086,
+              5.806034482759031
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
